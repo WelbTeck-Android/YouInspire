@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YouInspire</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_option">If you don\'t account, sign up here.</string>
+    <string name="sign_up">sign_up</string>
+    <string name="forgot_password">forgot password ?</string>
+    <string name="social_login_text">Social login can save your time</string>
+    <string name="arrow_down">sign options</string>
+    <string name="google_account">Google Account</string>
+    <string name="facebook_account">Facebook account</string>
+</resources>
